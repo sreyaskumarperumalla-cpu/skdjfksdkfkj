@@ -13,4 +13,20 @@ h1 {
 }  
 p {
   display: inline;
+
+}
+.first {
+  display: inline;
+  display: flex;
+  display:center;
+}
+.combine {
+  display: inline;
+  display: flex;
+  display:center;
+} 
+.second{
+  display: inline;
+  display: flex;
+  display:center;
 }
